@@ -1,0 +1,23 @@
+# Core Python data stack
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Model saving/loading
+joblib
+
+# App (Dashboard)
+streamlit
+
+# Utilities
+python-dateutil
+jupyter
+ipykernel

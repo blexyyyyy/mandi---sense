@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (DO NOT TRACK RAW OR PROCESSED)
+data/raw/
+data/processed/
+
+# Models
+models/
+
+# Streamlit cache
+.streamlit/
